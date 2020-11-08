@@ -1,0 +1,23 @@
+/* #circle {
+    border-radius: 1000%;
+    width: 40px;
+    height: 40px;
+    background: green;
+    display:inline-block;
+    line-height:40px;
+    vertical-align:center;
+    text-align:center;
+    color:#ffffff;
+} */
+
+.css-button-rounded {
+  background: #2fc974;
+  color: #fff;
+  display: block;
+  padding: 17px 15px;
+  text-align: center;
+  text-decoration: none;
+  width: 50px;
+  border-radius: 50px;
+  height: 50px;
+}
